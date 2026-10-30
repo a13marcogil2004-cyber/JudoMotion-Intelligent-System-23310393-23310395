@@ -2,7 +2,6 @@
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include "esp_log.h"
-
 #define NODO_ID "SENSOR_01"
 
 static const char *TAG = "JUDOMOTION";
