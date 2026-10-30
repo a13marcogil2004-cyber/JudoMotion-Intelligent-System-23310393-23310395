@@ -32,5 +32,7 @@
   "idf.openOcdConfigs": [
     "board/esp32s3-builtin.cfg"
   ],
-  "idf.monitorPort": "COM8"
+  "idf.monitorPort": "COM9",
+  "idf.flashType": "UART",
+  "idf.port": "COM8"
 }
