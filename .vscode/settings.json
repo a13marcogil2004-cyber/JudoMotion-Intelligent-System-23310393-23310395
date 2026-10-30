@@ -23,6 +23,13 @@
   "clangd.arguments": [
     "--background-index",
     "--query-driver=**",
-    "--compile-commands-dir=c:\\Users\\HP\\Downloads\\Proyecto_Titulacion_Ing\\Prueba-Esp32s3\\build"
+    "--compile-commands-dir=c:\\Users\\HP\\Documents\\GitHub\\JudoMotion-Intelligent-System-23310393-23310395\\build"
+  ],
+  "idf.currentSetup": "C:\\esp\\v5.5.6\\esp-idf",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32s3"
+  },
+  "idf.openOcdConfigs": [
+    "board/esp32s3-builtin.cfg"
   ]
 }
